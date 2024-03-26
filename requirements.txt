@@ -1,0 +1,8 @@
+django==4.2.2
+djangorestframework==3.14.0
+environs==9.5.0
+pandas
+celery
+geopy
+psycopg2
+drf-yasg
